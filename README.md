@@ -193,7 +193,7 @@ python3 -m simulation.analysis.app
 ## Project Structure
 
 ```
-GovSim/
+govsim/
 ├── simulation/
 │   ├── main.py                          # Entry point — builds models, dispatches to scenario
 │   ├── conf/                            # Hydra base configs
