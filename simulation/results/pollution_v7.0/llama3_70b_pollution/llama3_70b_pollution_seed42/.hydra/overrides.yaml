@@ -1,0 +1,6 @@
+- experiment=pollution_baseline_concurrent
+- llm.path=openrouter-meta-llama/llama-3-70b-instruct
+- llm.is_api=true
+- llm.backend=transformers
+- seed=42
+- group_name=llama3_70b_pollution

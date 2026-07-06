@@ -1,0 +1,17 @@
+model,scenario,n_seeds,survival_rate,survival_time_mean,survival_time_ci,mean_gain_mean,mean_gain_ci,efficiency_mean,efficiency_ci,equality_mean,equality_ci,over_usage_mean,over_usage_ci
+GPT-4o-baseline,fishing,5,1.0,12.0,0.0,77.72,14.89,0.6477,0.1241,0.9969,0.0046,0.0,0.0
+GPT-4o-baseline,sheep,5,0.2,5.4,3.31,53.68,33.26,0.4473,0.2772,0.9645,0.0306,0.0,0.0
+GPT-4o-baseline,pollution,5,0.6,9.8,2.66,70.08,22.53,0.584,0.1877,0.9485,0.069,0.0,0.0
+GPT-4o-baseline,ALL,15,0.6,9.07,1.95,67.16,14.23,0.5597,0.1186,0.97,0.0256,0.0,0.0
+GPT-4o-universalization,fishing,5,1.0,12.0,0.0,119.92,0.16,0.9993,0.0013,0.9995,0.001,0.0,0.0
+GPT-4o-universalization,sheep,5,1.0,12.0,0.0,115.6,8.62,0.9633,0.0719,1.0,0.0,0.0,0.0
+GPT-4o-universalization,pollution,5,1.0,12.0,0.0,100.08,10.27,0.834,0.0856,0.998,0.0018,0.0,0.0
+GPT-4o-universalization,ALL,15,1.0,12.0,0.0,111.87,6.09,0.9322,0.0507,0.9992,0.0008,0.0,0.0
+Llama-3-70B-baseline,fishing,5,0.0,2.4,1.33,25.16,6.83,0.2097,0.0569,0.8713,0.0213,0.0,0.0
+Llama-3-70B-baseline,sheep,5,0.0,1.4,0.48,20.6,1.12,0.1717,0.0094,0.9328,0.0356,0.0,0.0
+Llama-3-70B-baseline,pollution,5,0.0,1.0,0.0,20.0,0.0,0.1667,0.0,0.92,0.0204,0.0,0.0
+Llama-3-70B-baseline,ALL,15,0.0,1.6,0.53,21.92,2.45,0.1827,0.0204,0.908,0.0199,0.0,0.0
+Llama-3-70B-universalization,fishing,4,1.0,12.0,0.0,95.05,15.91,0.7921,0.1326,0.9662,0.0174,0.0,0.0
+Llama-3-70B-universalization,sheep,5,0.6,9.8,3.42,76.24,28.51,0.6353,0.2376,0.9273,0.0549,0.0133,0.0261
+Llama-3-70B-universalization,pollution,5,1.0,12.0,0.0,72.68,11.87,0.6057,0.0989,0.9307,0.0191,0.0,0.0
+Llama-3-70B-universalization,ALL,14,0.8571,11.21,1.27,80.34,12.15,0.6695,0.1013,0.9396,0.0218,0.0048,0.0093

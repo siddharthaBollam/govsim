@@ -1,0 +1,6 @@
+- experiment=sheep_baseline_concurrent
+- llm.path=openrouter-openai/gpt-4o-2024-05-13
+- llm.is_api=true
+- llm.backend=transformers
+- seed=3
+- group_name=gpt4o_sheep

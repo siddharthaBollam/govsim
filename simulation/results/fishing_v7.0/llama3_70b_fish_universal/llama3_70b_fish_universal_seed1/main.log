@@ -1,0 +1,1843 @@
+[2026-06-18 21:34:38,290][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,379][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/modules.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,470][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,471][huggingface_hub.utils._http][WARNING] - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2026-06-18 21:34:38,558][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,561][sentence_transformers.base.model][INFO] - Loading SentenceTransformer model from mixedbread-ai/mxbai-embed-large-v1.
+[2026-06-18 21:34:38,650][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,735][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/config_sentence_transformers.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,969][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:39,062][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/README.md "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,151][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:39,235][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/modules.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,324][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:39,412][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/sentence_bert_config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,510][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:39,605][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:39,686][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,022][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:38,113][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:38,204][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:38,304][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:38,392][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,485][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,575][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,622][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,718][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,764][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:38,915][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:38,997][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/tokenizer_config.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,100][httpx][INFO] - HTTP Request: GET https://huggingface.co/api/models/mixedbread-ai/mxbai-embed-large-v1/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+[2026-06-18 21:34:39,514][httpx][INFO] - HTTP Request: GET https://huggingface.co/api/models/mixedbread-ai/mxbai-embed-large-v1/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,664][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+[2026-06-18 21:34:39,752][httpx][INFO] - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/mixedbread-ai/mxbai-embed-large-v1/b33106f585b9ce46904ad7443a3b52b7a63e231c/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,866][httpx][INFO] - HTTP Request: GET https://huggingface.co/api/models/mixedbread-ai/mxbai-embed-large-v1 "HTTP/1.1 200 OK"
+[2026-06-18 21:34:39,899][sentence_transformers.base.model][INFO] - Loaded 1 prompt with these keys: ['query']
+[2026-06-18 21:34:43,203][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:34:57,502][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:35:01,266][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:35:10,027][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:35:13,842][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:35:23,874][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:35:27,033][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:35:44,093][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:35:47,321][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:35:57,937][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:36:01,501][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:36:04,912][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:36:10,529][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:36:13,678][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:36:22,198][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:36:26,702][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:36:39,772][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:36:44,493][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:37:05,381][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:37:10,409][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:37:15,042][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:37:22,988][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:37:33,251][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:37:37,168][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:37:50,849][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:37:54,095][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:38:08,010][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:38:15,997][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:38:16,910][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:38:18,439][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:38:19,486][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:38:33,442][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:38:33,920][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:39:22,656][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:39:27,213][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:39:29,776][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:39:30,401][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:39:38,506][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:39:42,372][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:39:45,240][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:39:47,266][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:07,130][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:09,782][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:18,622][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:25,121][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:28,649][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:29,300][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:40,101][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:41,495][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:44,242][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:44,895][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:40:53,195][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:40:56,891][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:11,606][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:12,583][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:15,535][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:17,922][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:24,780][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:26,315][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:28,494][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:29,038][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:41,284][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:42,411][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:41:54,445][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:41:57,696][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:03,180][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:03,688][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:13,387][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:17,660][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:20,385][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:20,838][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:32,731][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:35,697][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:45,144][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:47,762][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:50,073][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:50,813][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:42:57,013][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:42:58,880][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:01,041][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:01,481][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:10,336][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:13,074][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:17,740][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:18,283][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:26,674][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:27,949][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:35,967][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:37,715][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:42,785][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:43,362][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:43:54,493][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:43:56,516][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:05,369][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:08,319][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:13,561][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:14,101][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:29,898][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:31,126][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:39,756][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:41,610][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:44,326][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:44,977][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:44:52,504][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:44:55,440][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:04,818][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:06,668][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:11,502][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:12,017][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:19,623][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:21,054][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:32,738][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:36,941][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:44,021][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:45,713][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:45:54,293][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:45:56,325][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:04,711][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:07,220][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:15,116][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:17,242][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:25,566][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:28,788][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:31,757][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:34,900][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:38,658][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:45,084][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:46,624][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:46:54,584][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:46:59,881][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:07,088][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:10,846][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:16,711][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:20,865][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:29,821][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:35,853][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:36,700][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:39,120][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:40,302][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:45,747][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:46,250][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:55,076][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:57,306][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:47:59,055][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:47:59,525][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:09,518][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:11,192][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:13,021][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:13,499][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:23,163][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:25,322][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:38,539][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:41,159][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:43,016][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:43,505][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:53,650][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:55,199][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:48:58,013][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:48:58,548][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:09,019][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:11,952][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:21,589][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:23,876][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:25,807][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:27,476][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:35,024][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:36,885][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:38,879][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:39,325][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:47,790][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:49:50,062][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:49:59,097][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:01,396][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:02,890][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:03,465][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:13,829][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:15,461][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:17,645][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:18,076][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:28,803][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:31,850][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:44,953][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:47,237][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:48,771][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:47,273][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:50:54,605][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:50:57,237][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:00,596][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:01,105][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:15,893][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:18,568][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:25,546][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:26,091][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:35,570][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:36,730][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:47,722][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:49,136][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:51:55,772][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:51:57,489][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:06,536][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:52:08,066][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:17,173][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:52:19,526][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:27,418][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:52:30,732][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:35,993][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:52:40,223][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:48,150][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:52:48,623][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:52:58,673][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:01,314][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:53:09,161][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:12,324][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:53:18,492][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:19,898][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:53:31,845][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:33,914][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:53:45,032][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:46,940][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:53:54,178][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:53:54,632][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:03,340][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:04,703][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:12,241][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:13,950][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:19,205][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:21,335][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:32,121][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:33,432][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:42,397][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:44,477][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:54:50,014][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:54:51,267][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:01,226][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:55:03,188][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:12,284][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:55:12,722][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:20,234][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:55:21,516][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:29,296][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:55:31,110][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:43,665][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:55:47,159][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:55:57,364][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:00,448][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:56:10,301][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:12,454][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:56:18,891][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:21,727][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:56:27,035][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:27,532][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:56:38,719][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:40,452][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:56:51,374][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:56:51,260][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:00,017][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:00,914][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:06,704][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:08,143][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:18,378][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:19,735][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:27,563][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:30,902][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:36,400][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:38,577][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:47,514][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:49,695][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:57:57,629][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:57:59,808][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:06,607][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:08,637][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:18,022][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:22,165][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:25,455][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:29,956][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:32,346][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:36,279][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:39,962][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:46,552][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:49,716][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:58:55,858][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:58:59,995][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:07,088][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:59:10,721][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:17,719][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:59:22,592][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:30,322][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:59:35,733][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:47,741][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:59:53,641][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:52,616][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 21:59:54,667][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 21:59:55,645][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:01,504][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:02,338][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:12,612][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:14,634][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:17,426][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:17,962][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:27,130][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:29,145][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:31,417][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:31,893][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:39,979][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:00:42,767][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:00:56,465][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:00,022][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:04,509][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:04,985][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:11,867][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:15,464][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:18,789][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:19,990][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:26,996][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:29,634][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:44,033][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:47,042][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:01:49,837][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:01:50,293][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:02:33,407][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:02:36,245][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:02:37,988][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:02:38,449][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:02:54,555][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:02:55,382][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:07,816][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:10,924][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:13,285][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:16,187][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:22,033][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:23,944][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:24,956][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:25,407][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:36,645][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:39,046][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:03:56,459][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:03:58,786][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:03,122][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:05,054][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:13,154][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:15,585][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:17,546][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:18,058][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:26,472][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:26,838][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:34,094][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:34,665][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:46,276][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:47,788][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:04:55,579][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:04:56,925][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:05:10,619][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:05:11,935][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:05:21,704][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:05:23,229][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:05:35,837][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:05:37,182][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:05:47,060][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:05:48,327][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:05:57,373][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:00,421][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:08,566][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:09,036][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:18,846][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:20,172][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:29,443][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:30,643][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:38,293][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:39,480][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:46,992][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:48,398][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:06:56,213][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:06:58,499][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:05,906][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:07,217][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:18,074][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:21,297][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:28,156][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:28,050][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:34,704][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:35,328][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:45,862][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:46,896][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:07:57,432][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:07:56,531][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:08:09,552][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:08:10,911][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:08:22,690][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:08:23,983][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:08:32,278][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:08:33,647][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:08:42,737][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:08:44,197][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:08:55,397][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:08:57,766][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:09:05,533][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:09:06,086][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:09:16,224][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:09:17,646][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:09:29,789][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:09:30,979][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:09:42,328][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:09:43,646][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:09:52,507][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:09:56,958][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:10:05,291][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:10:06,698][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:10:15,526][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:10:17,601][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:10:29,311][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:10:29,594][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:10:43,003][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:10:43,979][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:10:56,803][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:10:59,370][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:11:09,660][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:11:10,983][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:11:21,908][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:11:23,197][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:11:32,713][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:11:33,567][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:11:44,105][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:11:46,566][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:11:57,257][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:11:59,766][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:12:06,191][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:12:11,013][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:12:18,209][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:12:20,409][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:12:32,462][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:12:34,609][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:12:42,502][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:12:45,178][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:12:52,076][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:12:54,191][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:13:08,134][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:13:14,459][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:13:19,301][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:13:22,916][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:13:27,189][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:13:31,559][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:13:34,618][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:13:43,893][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:13:48,669][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:13:57,393][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:02,912][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:14,124][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:18,772][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:26,666][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:31,249][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:32,112][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:32,458][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:33,503][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:41,940][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:42,484][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:14:52,297][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:14:54,371][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:00,921][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:01,449][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:09,688][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:12,276][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:14,600][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:15,168][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:28,740][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:32,072][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:46,623][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:49,454][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:15:52,191][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:15:52,840][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:03,193][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:03,564][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:06,512][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:07,054][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:17,879][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:21,386][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:32,808][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:34,485][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:37,703][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:38,297][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:47,233][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:51,691][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:16:54,363][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:16:54,815][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:17:03,673][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:17:12,379][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:17:33,243][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:17:33,942][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:17:37,014][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:17:37,553][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:17:46,487][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:17:49,428][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:17:51,499][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:17:52,043][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:18:05,368][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:18:07,434][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:18:21,189][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:18:24,929][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:18:27,242][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:18:27,738][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:18:39,275][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:18:46,356][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:18:48,660][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:18:49,139][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:19:01,234][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:19:03,215][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:19:15,880][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:19:16,324][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:19:27,621][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:19:29,003][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:19:39,506][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:19:40,958][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:19:54,495][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:19:56,546][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:20:11,758][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:20:23,250][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:25:12,444][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:25:13,553][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:25:28,338][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:25:29,696][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:25:36,367][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:25:36,857][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:25:46,501][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:25:47,248][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:25:56,247][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:25:57,064][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:06,829][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:07,525][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:12,567][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:13,260][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:22,949][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:23,668][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:33,769][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:34,515][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:42,404][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:43,576][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:26:55,634][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:26:56,169][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:27:10,220][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:27:12,076][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:27:23,650][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:27:24,341][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:27:34,903][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:27:35,649][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:27:42,666][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:27:43,542][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:27:53,158][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:27:54,348][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:05,063][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:05,529][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:12,687][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:13,475][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:20,059][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:20,876][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:31,113][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:32,998][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:38,658][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:39,331][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:28:49,850][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:28:50,672][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:29:05,697][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:29:06,529][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:29:17,467][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:29:19,430][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:29:28,364][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:29:28,884][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:29:39,770][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:29:38,508][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:29:54,638][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:29:55,927][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:30:07,762][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:30:08,589][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:30:19,810][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:30:20,950][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:30:31,812][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:30:33,004][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:30:43,792][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:30:44,570][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:31:00,168][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:31:02,714][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:31:14,506][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:31:16,125][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:31:26,072][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:31:27,636][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:31:34,970][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:31:40,043][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:31:48,632][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:31:50,228][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:32:07,820][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:32:10,908][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:32:13,989][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:32:18,903][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:32:27,202][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:32:32,621][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:32:39,982][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:32:45,595][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:32:55,346][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:01,882][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:33:06,496][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:12,441][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:33:19,460][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:26,749][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:33:35,703][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:36,542][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:33:38,566][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:39,725][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:33:45,499][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:33:56,207][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:34:15,793][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:34:19,883][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:34:22,674][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:34:23,112][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:34:29,602][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:34:31,416][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:34:34,099][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:34:34,537][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:34:46,287][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:34:49,294][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:02,124][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:03,668][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:05,369][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:05,855][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:11,959][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:13,087][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:15,593][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:16,038][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:26,731][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:28,655][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:39,927][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:41,466][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:43,151][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:41,678][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:49,061][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:50,179][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:35:52,616][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:35:53,083][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:05,995][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:09,544][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:22,080][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:23,578][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:26,036][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:26,515][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:37,790][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:39,341][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:42,144][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:42,602][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:36:55,211][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:36:56,967][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:08,582][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:10,096][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:11,970][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:12,482][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:18,567][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:19,651][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:25,509][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:26,000][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:38,643][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:42,078][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:37:49,318][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:37:49,848][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:38:00,446][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:38:03,298][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:38:14,453][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:38:15,115][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:38:29,275][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:38:31,711][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:38:42,412][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:38:43,063][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:38:54,638][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:38:55,389][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:39:10,051][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:39:10,856][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:39:21,411][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:39:22,679][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:39:33,010][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:39:33,617][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:39:44,271][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:39:45,131][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:39:57,608][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:39:58,354][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:40:07,895][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:40:08,525][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:40:17,579][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:40:18,451][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:40:30,638][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:40:31,732][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:40:43,330][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:40:44,046][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:40:54,526][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:40:55,323][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:41:06,438][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:41:07,678][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:41:14,743][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:41:15,492][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:41:26,041][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:41:26,758][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:41:42,388][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:41:43,119][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:41:54,742][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:41:55,452][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:05,911][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:42:07,492][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:18,540][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:42:19,238][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:30,344][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:42:31,274][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:40,840][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:42:42,119][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:46,332][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:42:46,809][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:42:59,666][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:43:00,338][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:43:12,988][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:43:13,645][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:43:25,968][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:43:26,710][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:43:40,102][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:43:40,743][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:43:51,760][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:43:52,668][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:01,600][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:02,228][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:09,808][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:10,919][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:18,471][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:18,931][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:28,339][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:30,090][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:42,151][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:43,523][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:44:53,224][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:44:54,033][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:06,306][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:45:07,422][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:16,929][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:45:19,604][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:28,499][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:45:30,399][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:38,576][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:45:42,278][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:47,197][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:45:50,058][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:45:59,946][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:46:01,520][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:46:07,883][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:46:11,345][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:46:17,224][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:46:20,696][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:46:24,079][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:46:38,760][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:46:43,648][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:46:59,528][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:47:04,825][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:47:21,667][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:47:29,483][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:47:42,330][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:47:46,026][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:47:53,826][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:47:59,674][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:48:10,245][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:48:17,052][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:48:28,123][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:48:35,801][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:48:51,324][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:48:54,468][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:48:55,360][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:48:56,943][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:48:57,872][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:09,517][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:10,154][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:19,129][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:20,693][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:24,379][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:24,834][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:32,095][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:33,293][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:35,770][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:36,310][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:44,764][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:46,453][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:53,006][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:54,494][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:49:56,736][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:49:57,194][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:06,823][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:08,373][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:10,881][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:11,402][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:19,454][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:21,185][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:30,162][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:31,710][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:34,506][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:34,975][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:41,892][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:43,344][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:45,358][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:46,110][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:50:55,022][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:50:56,581][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:05,867][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:09,276][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:14,335][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:14,818][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:22,803][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:24,168][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:26,442][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:26,896][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:42,010][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:44,538][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:52,528][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:54,563][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:51:56,468][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:51:56,914][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:06,863][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:07,928][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:10,380][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:10,837][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:20,801][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:20,873][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:30,487][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:30,960][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:40,127][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:40,920][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:52:50,471][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:52:51,937][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:53:04,191][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:53:04,929][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:53:17,429][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:53:18,081][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:53:25,296][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:53:25,963][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:53:38,714][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:53:39,406][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:53:52,022][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:53:52,644][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:06,209][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:07,434][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:14,633][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:15,114][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:26,310][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:27,069][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:37,372][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:38,078][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:49,508][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:50,559][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:54:56,886][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:54:57,916][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:55:09,342][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:55:10,662][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:55:18,185][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:55:18,648][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:55:30,103][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:55:30,805][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:55:43,230][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:55:43,924][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:55:51,953][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:55:52,786][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:02,485][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:03,468][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:13,227][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:14,517][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:23,346][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:24,523][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:34,206][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:34,855][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:46,152][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:46,846][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:56:57,038][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:56:57,676][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:09,424][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:10,113][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:16,292][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:16,919][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:23,656][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:24,325][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:38,150][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:38,841][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:47,301][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:48,649][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:57:54,754][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:57:53,187][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:58:01,827][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:58:02,572][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:58:49,384][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:58:50,153][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:58:55,881][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:58:56,664][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:59:11,937][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:59:13,013][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:59:25,887][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:59:27,868][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:59:38,320][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:59:39,864][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 22:59:49,206][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 22:59:54,048][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:00:06,450][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:00:11,626][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:00:21,319][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:00:25,958][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:00:33,410][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:00:36,902][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:00:40,345][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:00:52,511][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:00:58,453][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:01:12,355][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:01:33,134][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:01:41,604][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:01:52,045][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:02:00,129][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:02:06,616][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:02:20,759][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:02:31,510][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:02:39,115][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:02:49,917][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:02:55,796][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:04,883][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:12,708][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:17,646][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:18,628][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:22,736][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:23,823][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:31,947][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:32,469][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:45,141][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:47,749][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:49,779][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:50,250][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:57,723][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:03:57,746][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:03:59,832][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:00,406][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:12,543][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:13,891][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:28,068][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:27,917][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:31,287][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:31,714][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:43,131][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:44,201][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:45,975][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:46,382][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:04:57,146][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:04:58,401][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:10,846][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:12,686][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:17,774][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:18,275][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:25,844][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:28,456][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:28,312][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:28,749][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:37,294][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:38,566][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:05:57,470][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:05:57,678][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:06:06,616][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:06:07,077][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:06:25,635][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:06:27,784][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:06:29,453][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:06:29,989][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:06:44,803][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:06:46,157][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:03,179][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:05,029][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:09,525][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:10,030][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:17,167][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:19,526][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:22,563][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:22,973][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:33,563][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:36,937][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:48,624][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:49,046][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:07:58,269][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:07:59,127][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:08:05,830][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:08:06,573][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:08:17,820][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:08:20,256][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:08:37,433][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:08:38,703][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:08:49,171][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:08:49,902][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:09:45,261][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:09:45,917][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:10:01,910][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:10:03,803][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:10:10,593][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:10:11,088][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:10:23,388][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:10:24,041][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:10:33,704][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:10:34,465][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:10:52,721][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:10:53,730][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:11:00,024][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:11:00,811][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:11:14,806][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:11:16,115][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:11:33,573][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:11:34,022][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:11:42,757][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:11:43,914][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:11:56,337][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:11:57,128][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:12:09,648][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:12:10,428][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:12:24,937][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:12:25,781][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:12:32,734][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:12:34,065][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:12:46,592][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:12:47,139][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:13:39,762][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:13:42,649][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:13:57,274][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:13:58,670][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:14:09,124][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:14:09,873][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:14:18,715][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:14:19,845][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:14:32,175][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:14:33,377][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:14:46,593][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:14:47,580][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:14:59,356][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:15:01,241][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:15:12,729][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:15:13,610][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:16:08,279][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:16:09,187][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:16:22,808][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:16:23,531][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:16:34,084][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:16:34,025][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:16:45,863][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:16:47,441][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:16:57,396][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:16:58,997][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:17:07,420][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:17:09,073][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:17:17,729][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:17:23,196][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:17:30,778][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:17:37,702][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:17:43,997][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:17:46,756][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:17:51,423][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:17:58,924][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:03,930][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:08,758][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:15,905][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:25,034][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:29,109][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:38,328][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:42,675][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:43,433][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:45,388][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:46,276][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:18:59,208][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:18:59,911][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:09,369][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:11,627][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:13,323][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:14,084][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:21,845][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:23,736][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:26,437][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:26,843][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:38,922][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:40,887][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:53,745][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:55,324][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:19:57,023][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:19:57,451][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:08,309][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:10,550][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:12,764][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:13,175][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:28,274][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:29,784][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:42,059][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:43,577][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:45,713][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:46,130][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:54,826][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:57,247][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:20:59,437][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:20:59,848][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:12,871][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:13,690][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:23,457][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:24,999][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:26,758][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:27,220][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:37,505][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:38,824][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:42,929][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:43,310][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:21:54,230][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:21:56,707][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:10,713][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:12,205][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:13,879][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:14,325][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:20,933][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:23,135][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:26,208][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:26,665][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:37,084][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:39,050][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:50,142][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:50,615][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:22:58,795][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:22:59,510][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:23:11,236][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:23:12,006][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:23:21,576][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:23:22,283][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:23:31,257][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:23:33,992][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:23:43,188][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:23:44,010][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:23:55,632][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:23:56,260][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:06,362][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:07,590][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:18,626][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:19,013][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:24,302][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:25,208][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:32,928][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:33,518][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:40,695][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:41,743][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:24:53,536][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:24:54,191][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:01,911][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:02,653][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:12,460][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:13,189][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:21,528][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:22,824][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:33,531][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:33,953][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:39,407][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:40,126][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:45,685][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:46,603][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:25:52,460][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:25:53,166][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:01,511][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:02,170][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:10,313][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:11,033][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:21,090][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:21,757][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:31,275][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:32,565][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:44,442][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:44,849][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:26:52,868][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:26:53,559][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:00,254][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:00,791][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:11,368][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:12,019][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:22,239][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:22,867][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:33,544][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:34,319][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:45,815][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:46,459][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:27:54,412][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:27:56,002][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:04,803][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:05,771][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:16,093][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:16,762][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:29,469][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:30,448][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:40,508][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:41,945][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:50,341][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:51,021][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:28:58,379][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:28:59,328][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:29:07,325][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:29:12,757][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:29:23,149][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:29:26,119][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:29:33,163][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:29:34,680][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:29:42,038][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:29:44,273][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:29:50,745][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:29:52,252][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:01,521][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:05,046][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:07,612][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:10,773][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:18,691][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:22,390][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:26,699][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:31,432][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:35,582][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:41,051][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:46,523][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:30:53,475][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:30:59,416][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:06,339][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:31:12,714][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:20,692][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:31:24,172][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:32,789][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:31:36,547][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:37,446][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:31:40,009][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:40,925][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:31:52,200][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:31:52,812][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:03,291][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:04,584][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:06,293][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:06,682][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:11,361][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:12,181][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:15,103][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:15,572][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:25,253][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:26,713][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:38,286][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:39,719][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:42,278][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:42,702][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:46,934][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:47,557][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:32:50,131][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:32:50,581][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:03,311][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:06,504][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:16,499][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:17,777][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:19,486][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:19,901][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:25,063][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:27,675][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:29,845][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:30,283][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:37,972][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:43,684][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:33:54,638][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:33:56,769][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:34:01,586][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:34:02,157][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:34:06,502][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:34:07,683][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:34:43,516][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:34:45,297][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:34:57,052][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:34:58,925][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:11,552][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:13,153][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:15,196][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:15,629][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:19,304][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:19,987][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:22,681][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:24,974][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:34,263][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:36,052][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:45,204][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:45,632][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:35:54,070][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:35:54,677][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:36:04,971][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:36:05,637][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:36:19,925][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:36:20,879][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:36:31,549][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:36:32,339][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:36:45,465][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:36:46,154][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:36:52,331][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:36:53,042][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:00,815][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:02,223][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:08,053][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:08,467][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:16,899][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:17,545][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:28,994][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:29,750][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:41,886][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:42,613][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:50,166][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:50,743][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:37:57,911][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:37:58,679][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:38:12,130][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:38:13,348][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:38:22,090][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:38:22,520][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:38:32,006][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:38:32,745][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:38:46,865][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:38:47,601][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:38:59,105][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:38:59,844][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:39:09,632][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:39:11,604][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:39:20,399][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:39:22,132][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:39:29,596][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:39:30,016][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:39:35,723][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:39:36,343][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:39:47,708][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:39:48,374][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:40:03,847][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:40:04,933][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:40:17,397][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:40:18,082][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:40:31,362][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:40:33,086][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:40:39,608][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:40:40,093][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:40:55,133][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:40:55,943][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:06,862][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:07,640][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:16,851][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:17,531][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:25,257][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:26,111][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:33,604][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:34,369][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:45,625][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:48,925][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:41:56,459][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:41:59,162][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:42:11,448][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:42:13,038][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:42:18,842][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:42:22,490][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:42:28,332][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:42:31,503][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:20,368][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:43:23,453][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:27,743][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:43:31,259][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:34,227][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:43:37,681][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:41,280][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:43:46,490][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:50,056][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:43:54,843][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:43:57,889][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:02,855][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:07,843][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:08,497][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:10,406][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:11,098][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:22,984][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:23,434][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:39,467][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:40,829][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:43,000][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:43,442][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:49,942][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:53,623][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:44:58,174][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:44:58,615][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:10,265][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:11,986][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:25,138][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:27,241][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:29,560][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:30,752][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:39,863][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:40,911][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:42,909][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:43,318][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:45:51,139][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:45:53,613][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:08,104][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:09,472][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:11,674][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:12,089][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:20,328][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:21,405][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:23,429][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:23,816][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:35,930][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:37,462][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:47,821][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:49,221][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:50,852][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:51,285][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:46:55,886][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:46:57,947][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:00,124][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:00,583][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:12,594][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:14,422][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:28,733][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:30,138][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:32,014][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:32,463][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:37,481][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:38,617][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:40,766][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:41,187][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:47:52,208][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:47:54,082][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:48:01,262][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:48:01,719][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:48:11,571][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:48:14,904][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:48:27,151][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:48:27,770][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:48:38,567][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:48:39,234][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:48:48,474][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:48:50,144][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:00,324][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:49:01,018][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:12,911][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:49:13,733][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:18,949][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:49:21,530][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:31,484][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:49:32,033][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:46,656][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:49:50,298][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:49:59,030][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:04,041][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:50:13,645][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:14,371][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:50:25,403][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:26,163][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:50:36,035][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:36,759][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:50:46,010][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:47,144][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:50:57,961][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:50:58,422][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:06,688][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:07,407][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:17,604][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:18,309][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:29,210][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:29,852][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:36,247][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:36,969][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:47,754][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:48,479][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:51:56,664][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:51:57,395][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:09,082][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:10,715][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:19,705][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:20,226][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:31,571][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:32,259][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:38,428][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:39,225][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:49,362][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:49,991][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:52:58,084][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:52:58,669][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:53:07,925][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:53:08,634][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:53:17,807][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:53:18,383][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:53:29,420][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:53:30,110][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:53:43,430][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:53:44,541][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:53:56,178][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:53:56,653][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:54:05,316][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:54:07,369][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:54:17,674][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:54:20,094][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:54:27,192][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:54:27,990][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:54:38,757][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:54:39,476][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:54:48,534][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:54:49,541][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:01,787][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:02,583][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:12,759][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:15,261][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:25,409][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:26,922][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:32,847][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:34,333][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:45,471][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:47,074][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:55:55,675][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:55:58,500][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:11,496][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:56:15,228][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:19,057][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:56:22,746][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:27,223][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:56:31,347][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:37,121][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:56:42,900][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:49,435][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:56:55,470][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:56:59,923][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:07,018][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:57:11,560][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:20,122][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:57:26,738][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:36,701][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:57:42,098][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:50,307][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:57:55,056][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:55,950][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:57:58,437][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:57:59,517][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:07,999][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:08,570][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:23,294][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:25,685][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:28,261][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:28,704][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:33,844][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:34,997][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:37,162][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:37,643][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:58:48,977][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:58:50,420][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:01,543][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:03,448][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:07,252][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:07,745][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:17,795][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:18,967][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:21,037][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:21,442][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:34,230][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:35,593][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:42,225][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:44,213][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:46,304][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:46,711][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-18 23:59:54,444][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-18 23:59:57,072][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:00,193][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:00,751][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:08,928][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:10,543][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:18,354][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:20,965][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:23,625][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:24,072][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:30,731][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:32,176][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:35,051][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:35,486][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:43,461][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:44,806][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:55,228][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:00:57,053][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:00:59,438][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:00,012][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:12,451][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:13,580][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:15,304][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:15,795][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:26,853][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:28,405][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:34,915][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:37,125][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:48,027][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:48,603][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:01:56,293][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:01:56,879][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:02:07,506][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:02:08,137][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:02:17,792][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:02:18,411][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:02:27,631][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:02:29,761][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:02:37,331][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:02:38,869][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:02:52,191][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:02:54,297][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:00,582][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:00,994][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:11,878][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:12,636][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:20,062][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:20,832][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:30,547][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:31,543][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:38,294][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:38,953][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:46,287][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:46,938][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:03:56,666][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:03:57,862][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:04,141][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:04,632][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:11,826][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:12,948][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:23,585][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:24,623][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:33,382][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:34,222][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:46,999][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:47,664][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:04:54,914][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:04:55,717][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:05,007][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:06,233][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:12,919][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:13,352][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:19,426][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:20,075][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:27,520][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:28,097][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:39,322][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:39,938][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:05:44,619][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:05:45,320][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:06:01,108][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:06:02,901][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:06:12,921][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:06:15,061][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:06:25,720][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:06:26,350][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:06:40,597][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:06:41,817][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:06:49,022][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:06:49,464][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:01,337][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:02,056][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:10,488][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:11,225][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:20,286][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:21,846][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:31,093][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:31,807][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:42,991][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:43,738][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:07:54,902][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:07:56,699][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:05,881][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:08:07,371][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:12,684][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:08:14,182][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:26,184][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:08:27,635][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:34,384][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:08:37,980][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:47,280][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:08:51,490][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:08:58,837][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:01,817][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:05,833][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:10,856][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:14,209][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:19,382][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:23,717][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:29,423][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:35,735][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:41,727][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:45,964][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:09:52,279][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:09:57,730][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:05,378][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:11,417][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:22,112][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:27,481][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:28,359][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:30,880][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:32,064][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:40,060][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:40,640][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:52,081][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:53,786][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:10:56,366][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:10:56,850][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:06,188][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:07,329][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:09,829][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:10,247][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:21,717][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:23,650][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:37,890][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:39,590][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:42,455][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:42,881][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:51,101][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:52,497][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:11:56,867][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:11:57,296][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:08,271][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:09,727][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:19,224][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:21,161][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:23,637][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:24,082][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:32,660][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:34,147][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:41,113][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:41,552][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:12:56,167][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:12:57,841][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:09,172][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:10,901][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:13,288][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:13,721][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:20,577][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:21,748][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:24,278][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:25,040][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:34,981][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:40,030][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:49,473][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:51,165][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:13:55,356][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:13:55,820][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:14:09,790][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:14:11,728][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:14:14,715][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:14:15,415][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:14:31,442][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:14:33,446][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:14:40,181][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:14:40,604][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:14:51,114][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:14:51,902][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:15:03,085][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:15:03,913][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:15:13,670][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:15:14,718][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:15:24,501][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:15:25,183][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:15:36,286][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:15:37,620][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:15:49,466][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:15:50,689][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:16:11,912][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:16:16,482][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:16:24,460][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:16:25,341][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:16:37,034][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:16:37,844][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:16:47,841][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:16:48,689][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:17:04,319][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:17:05,119][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:17:13,742][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:17:14,370][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:17:25,947][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:17:27,288][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:17:38,821][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:17:39,295][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:17:48,892][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:17:49,692][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:18:00,030][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:18:00,736][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:18:18,752][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:18:19,533][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:18:27,428][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:18:28,142][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:18:43,158][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:18:43,766][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:18:50,110][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:18:50,903][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:19:02,440][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:19:06,082][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:19:15,207][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:19:15,785][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:19:28,457][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:19:29,199][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:19:39,881][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:19:42,320][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:19:51,517][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:19:52,842][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:20:07,552][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:20:08,397][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:20:19,567][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:20:20,951][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:20:30,789][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:20:31,456][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:20:45,553][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:20:47,648][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:20:59,690][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:21:02,158][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:21:16,367][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:21:17,214][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:21:29,435][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:21:30,152][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:21:41,822][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:21:42,543][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:21:57,629][root][INFO] - OpenAI system_fingerprint: None
+[2026-06-19 00:21:58,351][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2026-06-19 00:22:05,850][root][INFO] - OpenAI system_fingerprint: None
